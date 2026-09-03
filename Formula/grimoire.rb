@@ -1,9 +1,9 @@
 class Grimoire < Formula
   desc "Documentation retrieval CLI + MCP server for AI coding agents"
   homepage "https://grimoire.monadeo.com"
-  url "https://registry.npmjs.org/@monadeo.com/grimoire-cli/-/grimoire-cli-0.3.7.tgz"
+  url "https://registry.npmjs.org/@monadeo.com/grimoire-cli/-/grimoire-cli-0.4.0.tgz"
   # url + sha256 are re-stamped by the release pipeline on each publish.
-  sha256 "43bf9ecdb456bc0420cbb2acbcc69609756348bf3cc2967fe1ea2eb0ca6cbc5c"
+  sha256 "fcaa74adc654148d9a0e943f7300b90bc9d9d13277d289e570dcb376c0da88eb"
   license "Apache-2.0"
   depends_on "node"
 

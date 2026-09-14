@@ -1,9 +1,9 @@
 class Astrogate < Formula
   desc "Event-driven orchestration of Pi coding sessions in herdr, driven by GitHub"
   homepage "https://github.com/monadeo/astrogate"
-  url "https://github.com/monadeo/astrogate/releases/download/v0.0.8/astrogate-0.0.8.tar.gz"
+  url "https://github.com/monadeo/astrogate/releases/download/v0.0.9/astrogate-0.0.9.tar.gz"
   # url + sha256 are re-stamped by the release workflow on each tag.
-  sha256 "e838d53010630c864d686a1b92afc9cab7f6c836302767fdb4df622a294b96bf"
+  sha256 "f3091bbf5d6a22ac3001bad7880a9b138bf688571ecd837139945cfdb7b63fbb"
   license "MIT"
   depends_on "node"
 
